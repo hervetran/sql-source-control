@@ -1,6 +1,6 @@
 # UPDATE: PR merged
 
-See https://github.com/justinlettau/sql-source-control/pull/16
+See https://github.com/justinlettau/sql-source-control/pull/15
 
 
 [![NPM Version](https://badge.fury.io/js/sql-source-control.svg)](https://badge.fury.io/js/sql-source-control)
